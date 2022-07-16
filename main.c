@@ -1,6 +1,6 @@
 /*
 project:    Quadratic
-Author:     Malila Nyamai
+Author:     Felix Mutugi
 Compiler:   C89
 License:    MIT
 Date:       July 2022
